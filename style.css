@@ -1,0 +1,24 @@
+.p1 {
+margin: auto;
+width: 90%;
+border: 20px solid green;
+padding: 45px;
+text-align: center;
+position: absolute;
+
+}
+
+p {
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+body {
+    background-image: url(./Assets/Project-2-Pic.jpg);
+}
